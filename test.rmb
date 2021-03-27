@@ -1,0 +1,19 @@
+{::options parse_block_html="true" syntax_highlighter_opts="{formatter: Redis, driver: ../../../../../../../../../../../../../../tmp/ducnt.rb, line_numbers: true\\}" /}
+
+<div>
+FooBar
+</div>
+
+
+~~~ ruby
+    def what?
+      42
+    end
+~~~
+
+
+{::options parse_block_html="false" /}
+<div>
+Foobar
+</div>
+fuckinggopro1337
