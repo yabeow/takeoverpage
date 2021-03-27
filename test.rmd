@@ -1,4 +1,4 @@
-{::options parse_block_html="true" /}
+{::options syntax_highlighter_opts="{formatter: Rogue, line_numbers: true\\}" /}
 
 <div>
 FooBar
@@ -12,7 +12,7 @@ FooBar
 ~~~
 
 
-{::options parse_block_html="false" /}
+{::options syntax_highlighter_opts="{formatter: Rogue, line_numbers: false\\}" /}
 <div>
 Foobar
 </div>
