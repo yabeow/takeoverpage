@@ -1,4 +1,4 @@
-{::options parse_block_html="true" syntax_highlighter_opts="{formatter: Redis, driver: ../../../../../../../../../../../../../../tmp/ducnt.rb, line_numbers: true\\}" /}
+{::options parse_block_html="trye" /}
 
 <div>
 FooBar
