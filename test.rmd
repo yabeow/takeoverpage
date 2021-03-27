@@ -1,4 +1,4 @@
-{::options parse_block_html="trye" /}
+{::options parse_block_html="true" /}
 
 <div>
 FooBar
